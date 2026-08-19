@@ -35,7 +35,7 @@ I built Recast with Cursor and Grok. I used AI heavily for implementation speed,
 
 ## Evidence
 - Live product: https://recast-indol.vercel.app/
-- Screenshots in `/shots`
+- Screenshots in the repository
 - Source is private. Collaborator access available in interviews.
 
 ## What’s next
