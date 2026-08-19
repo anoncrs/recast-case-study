@@ -37,3 +37,6 @@ I built Recast with Cursor and Grok. I used AI heavily for implementation speed,
 
 ## What’s next
 Continuing to improve the repair engine and expand Pro capabilities.
+
+## Eval set
+Fixtures: [`evals/cases.md`](evals/cases.md)
